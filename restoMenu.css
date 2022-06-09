@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#github{
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+}
+
+#titulo{
+    text-align: center;
+    background-color: #000000;
+    color:#f6ff00;
+    height: 70px;
+    width: 680px;
+    margin: auto;
+    font-size: 50px;
+    border: 5px solid #ffa200;
+    padding-top: 20px;
+}
+
+.margenSuperiorIzquierdo{
+    float:left;
+    width: 100px;
+    height: 100px;
+}
+
+header{
+    height: 100px;
+    background-color: #000000;
+}
+
+.headerDeSecciones{
+    height: 50px;
+    background-color: #000000;
+}
+
+footer{
+    height: 30px;
+    background-color: #000000;
+    position: absolute; /* usado para fijar el footer al bottom */
+    bottom: 0; /* usado para fijar el footer al bottom*/
+    width: 100%; /* usado para fijar el footer al bottom*/
+}
+
+.indice{
+    line-height: 25px;
+    padding: 0px 8px;
+    font-weight: 700;
+    background-color: #b1b1b1;
+    border-radius: 25px;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    position: relative;
+    padding-bottom: 5em; 
+    min-height: 100vh;   /* usado para fijar el footer al bottom*/
+}
+
+#ajusteVentana{
+    /* los 100 px extra, son para los cuadros de las pinturas */
+    /*width: 1370px;
+    height: 1200px;*/
+    /*width: 1348px;*/
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border: 3px solid #ffa200;
+}
