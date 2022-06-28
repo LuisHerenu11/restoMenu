@@ -109,11 +109,11 @@ img{
 
 #SeccionPostres{
     vertical-align: bottom;
-    display: inline-block;
+    display: inline;
     background-color: pink;
     overflow: auto;
     width: 100%;
-    height: 25%;
+    height: 20%;
     bottom: 3px;
 }
 
