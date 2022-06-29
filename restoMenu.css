@@ -128,3 +128,7 @@ img{
 .inline-block{
     display: inline-block;
 }
+
+.inheritDisplay{
+    display: inherit;
+}
