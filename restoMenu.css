@@ -132,3 +132,12 @@ img{
 .inheritDisplay{
     display: inherit;
 }
+
+.itemPostres{
+    width: 20%;
+    display: inline;
+}
+
+.ajusteDIV{
+    width: 33%;
+}
