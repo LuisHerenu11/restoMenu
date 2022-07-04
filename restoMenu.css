@@ -141,3 +141,8 @@ img{
 .ajusteDIV{
     width: 33%;
 }
+
+ul{
+    /* defino el estilo de los BULLETS / PUNTOS que numeran items de lista como NADA, haciendo que no se vean */
+    list-style-type: none;
+}
